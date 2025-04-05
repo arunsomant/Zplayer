@@ -1,0 +1,34 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Clear hls - Angel one",
+        "localImageResource": "thumbnail_example_music_consumption",
+        "description": "Showcase of clear hls playback",
+        "videoUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8",
+        "isLive": false
+      },
+      {
+        "id": 3,
+        "type": "DEFAULT",
+        "title": "Live hls example1",
+        "localImageResource": "thumbnail_example_music_consumption",
+        "description": "Showcase of Live hls example1",
+        "videoUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+        "isLive": true
+      },
+      {
+        "id": 4,
+        "type": "DEFAULT",
+        "title": "Live hls example2",
+        "localImageResource": "thumbnail_example_video_consumption",
+        "description": "Showcase of Live hls example2",
+        "videoUrl": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8",
+        "isLive": true
+      }
+    ]
+  }
+]

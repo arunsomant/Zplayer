@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="Theme.ExoTV" parent="@style/Theme.Leanback" >
+        <item name="android:windowBackground">@drawable/bg_living_room_wide</item>
+        <item name="browseRowsMarginTop">275dp</item>
+
+        <!-- Change Primary & Accent Colors -->
+        <item name="colorPrimary">#FF4081</item>  <!-- Pink -->
+        <item name="colorAccent">#FFD700</item>  <!-- Gold -->
+
+        <!-- Change SeekBar Colors -->
+        <item name="colorControlActivated">#FF5722</item>  <!-- Active SeekBar (Orange) -->
+        <item name="colorControlHighlight">#FFD700</item>  <!-- Ripple Effect (Gold) -->
+        <item name="colorControlNormal">#808080</item>  <!-- Default SeekBar (Gray) -->
+    </style></resources>
